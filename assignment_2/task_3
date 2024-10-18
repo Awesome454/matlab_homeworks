@@ -1,0 +1,7 @@
+%Author: Emma Jarvis
+%Email:jarvis77@rowan.edu
+%Course: MATLAB programming - fall 2024
+%Date 10/10/24
+
+% Prompt user for input
+encrypt = caesar_cipher('hello',5);
